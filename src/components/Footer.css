@@ -1,0 +1,57 @@
+#footer
+{
+    background-color: black;
+    height: 8rem;
+    max-width: 100%;
+    display: flex;
+    padding: 5px;
+    margin-top: 32px;
+}
+
+#left-footer
+{
+    width: 50%;
+    color: white;
+    padding-left: 10rem;
+    margin-right: 3rem;
+    font-size: 18px;
+}
+
+#left-footer p{
+    margin-bottom: 16px;
+    margin-top: 4px;
+}
+
+#right-footer
+{
+    width: 50%;
+    background-color: #000000;
+    color: white;
+    padding-left: 14rem;
+    font-size: 18px;
+}
+
+.social-media
+{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social-media span
+{
+   font-size: 2rem;
+}
+
+#copyright
+{
+    color: white;
+}
+
+a.mailId{
+    text-decoration: none;
+    color: white;
+}
+
+
+

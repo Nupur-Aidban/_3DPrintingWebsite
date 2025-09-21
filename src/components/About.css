@@ -1,0 +1,35 @@
+#aboutUs{
+    margin-top: 32px;
+    background: linear-gradient(219deg, #383838, #141414);
+    color: white;
+}
+
+#aboutUs img{
+    max-width: 40%;
+    height: 24rem;
+    border-radius: 10%;
+    opacity: 0.6;
+}
+
+.aboutus-content
+{
+  display: flex;
+}
+
+.aboutMain
+{
+    padding: 0 2rem;
+}
+
+.aboutMain h3
+{
+    text-align: center;
+    font-size: 30px;
+    margin: 16px 0;
+}
+
+code
+{
+    font-size: 20px;
+}
+

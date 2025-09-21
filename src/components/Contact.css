@@ -1,0 +1,50 @@
+#contactus{
+    background: linear-gradient(219deg, #383838, #141414);
+    color: white;
+    padding: 16px;
+}
+
+#contactus h3
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+#contactus form{
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.input-group
+{
+    margin-bottom:1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-group input
+{
+    height: 32px;
+    width: 20%;
+    margin-left: 1rem;
+    border: 2px solid black;
+}
+
+.input-group .icon
+{
+    font-size: 22px;
+}
+
+button
+{
+    background-color:  black;
+    color: white !important;
+    outline: none;
+    border: none;
+    color: black;
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 8px 16px;
+    width: 15%;
+}
